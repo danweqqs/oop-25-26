@@ -1,0 +1,14 @@
+C:\C#\hw4\hw38\WorkerProject38\bin\Debug\net9.0\WorkerProject38.exe
+C:\C#\hw4\hw38\WorkerProject38\bin\Debug\net9.0\WorkerProject38.deps.json
+C:\C#\hw4\hw38\WorkerProject38\bin\Debug\net9.0\WorkerProject38.runtimeconfig.json
+C:\C#\hw4\hw38\WorkerProject38\bin\Debug\net9.0\WorkerProject38.dll
+C:\C#\hw4\hw38\WorkerProject38\bin\Debug\net9.0\WorkerProject38.pdb
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.AssemblyInfoInputs.cache
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.AssemblyInfo.cs
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.csproj.CoreCompileInputs.cache
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.dll
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\refint\WorkerProject38.dll
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.pdb
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\WorkerProject38.genruntimeconfig.cache
+C:\C#\hw4\hw38\WorkerProject38\obj\Debug\net9.0\ref\WorkerProject38.dll
