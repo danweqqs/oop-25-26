@@ -1,0 +1,14 @@
+C:\C#\hw4\MyConsoleApp\WorkerProject\bin\Debug\net9.0\WorkerProject.exe
+C:\C#\hw4\MyConsoleApp\WorkerProject\bin\Debug\net9.0\WorkerProject.deps.json
+C:\C#\hw4\MyConsoleApp\WorkerProject\bin\Debug\net9.0\WorkerProject.runtimeconfig.json
+C:\C#\hw4\MyConsoleApp\WorkerProject\bin\Debug\net9.0\WorkerProject.dll
+C:\C#\hw4\MyConsoleApp\WorkerProject\bin\Debug\net9.0\WorkerProject.pdb
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.AssemblyInfoInputs.cache
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.AssemblyInfo.cs
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.csproj.CoreCompileInputs.cache
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.dll
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\refint\WorkerProject.dll
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.pdb
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\WorkerProject.genruntimeconfig.cache
+C:\C#\hw4\MyConsoleApp\WorkerProject\obj\Debug\net9.0\ref\WorkerProject.dll
