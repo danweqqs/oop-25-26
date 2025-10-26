@@ -1,0 +1,14 @@
+C:\C#\hw4\hw88\GeographyProject\bin\Debug\net9.0\GeographyProject.exe
+C:\C#\hw4\hw88\GeographyProject\bin\Debug\net9.0\GeographyProject.deps.json
+C:\C#\hw4\hw88\GeographyProject\bin\Debug\net9.0\GeographyProject.runtimeconfig.json
+C:\C#\hw4\hw88\GeographyProject\bin\Debug\net9.0\GeographyProject.dll
+C:\C#\hw4\hw88\GeographyProject\bin\Debug\net9.0\GeographyProject.pdb
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.AssemblyInfoInputs.cache
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.AssemblyInfo.cs
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.csproj.CoreCompileInputs.cache
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.dll
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\refint\GeographyProject.dll
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.pdb
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\GeographyProject.genruntimeconfig.cache
+C:\C#\hw4\hw88\GeographyProject\obj\Debug\net9.0\ref\GeographyProject.dll
