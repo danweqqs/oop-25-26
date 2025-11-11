@@ -1,0 +1,14 @@
+C:\C#\hw6\JsonBooks\bin\Debug\net9.0\JsonBooks.exe
+C:\C#\hw6\JsonBooks\bin\Debug\net9.0\JsonBooks.deps.json
+C:\C#\hw6\JsonBooks\bin\Debug\net9.0\JsonBooks.runtimeconfig.json
+C:\C#\hw6\JsonBooks\bin\Debug\net9.0\JsonBooks.dll
+C:\C#\hw6\JsonBooks\bin\Debug\net9.0\JsonBooks.pdb
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.AssemblyInfoInputs.cache
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.AssemblyInfo.cs
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.csproj.CoreCompileInputs.cache
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.dll
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\refint\JsonBooks.dll
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.pdb
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\JsonBooks.genruntimeconfig.cache
+C:\C#\hw6\JsonBooks\obj\Debug\net9.0\ref\JsonBooks.dll
