@@ -1,0 +1,14 @@
+C:\C#\labs2\bin\Debug\net9.0\labs2.exe
+C:\C#\labs2\bin\Debug\net9.0\labs2.deps.json
+C:\C#\labs2\bin\Debug\net9.0\labs2.runtimeconfig.json
+C:\C#\labs2\bin\Debug\net9.0\labs2.dll
+C:\C#\labs2\bin\Debug\net9.0\labs2.pdb
+C:\C#\labs2\obj\Debug\net9.0\labs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\labs2\obj\Debug\net9.0\labs2.AssemblyInfoInputs.cache
+C:\C#\labs2\obj\Debug\net9.0\labs2.AssemblyInfo.cs
+C:\C#\labs2\obj\Debug\net9.0\labs2.csproj.CoreCompileInputs.cache
+C:\C#\labs2\obj\Debug\net9.0\labs2.dll
+C:\C#\labs2\obj\Debug\net9.0\refint\labs2.dll
+C:\C#\labs2\obj\Debug\net9.0\labs2.pdb
+C:\C#\labs2\obj\Debug\net9.0\labs2.genruntimeconfig.cache
+C:\C#\labs2\obj\Debug\net9.0\ref\labs2.dll

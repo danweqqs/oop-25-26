@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student id="101" faculty="ФКНК" department="Теоретичної кібернетики" course="2" semester="3">
+        <name>Сорокін Даніїл</name>
+
+        <credits>
+            <subject type="залік" teacher="Степанечко О.В." score="90">Іноземна мова для академічних цілей</subject>
+            <subject type="залік" score="92">Базова загальновійськова підготовка</subject>
+            <subject type="залік" teacher="Штельмашенко А. Д." score="97">Соціально-політичні студії</subject>
+            <subject type="іспит" teacher="Карнаух Т. О." score="84">Програмування мовою C++. Додаткові розділи</subject>
+        </credits>
+
+        <exams>
+            <subject type="іспит" teacher="Омельчук Л. Л." score="91">Об'єктно-орієнтоване програмування</subject>
+            <subject type="іспит" teacher="Шкільняк С. С." score="84">Математична логіка</subject>
+            <subject type="іспит" teacher="Пічкур В. В." score="89">Диференціальні рівняння</subject>
+            <subject type="іспит" teacher="Розора І. В." score="88">Теорія ймовірностей</subject>
+        </exams>
+    </student>
+
+    <student id="102" faculty="ФКНК" department="Теоретичної кібернетики" course="2" semester="3">
+        <name>Бирак Роман</name>
+
+        <credits>
+            <subject type="залік" teacher="Красовська І. В." score="89">Іноземна мова для академічних цілей</subject>
+            <subject type="залік" score="88">Базова загальновійськова підготовка</subject>
+            <subject type="залік" teacher="Горобчук Б. Д." score="93">Соціально-політичні студії</subject>
+            <subject type="іспит" teacher="Карнаух Т. О." score="95">Програмування мовою C++. Додаткові розділи</subject>
+        </credits>
+
+        <exams>
+            <subject type="іспит" teacher="Свистунов А. О." score="91">Об'єктно-орієнтоване програмування</subject>
+            <subject type="іспит" teacher="Шкільняк С. С." score="90">Математична логіка</subject>
+            <subject type="іспит" teacher="Пічкур В. В." score="82">Диференціальні рівняння</subject>
+            <subject type="іспит" teacher="Розора І. В." score="76">Теорія ймовірностей</subject>
+        </exams>
+    </student>
+</students>
