@@ -1,0 +1,14 @@
+C:\C#\hw3\HelloConsole\bin\Debug\net9.0\HelloConsole.exe
+C:\C#\hw3\HelloConsole\bin\Debug\net9.0\HelloConsole.deps.json
+C:\C#\hw3\HelloConsole\bin\Debug\net9.0\HelloConsole.runtimeconfig.json
+C:\C#\hw3\HelloConsole\bin\Debug\net9.0\HelloConsole.dll
+C:\C#\hw3\HelloConsole\bin\Debug\net9.0\HelloConsole.pdb
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.AssemblyInfoInputs.cache
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.AssemblyInfo.cs
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.dll
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\refint\HelloConsole.dll
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.pdb
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\HelloConsole.genruntimeconfig.cache
+C:\C#\hw3\HelloConsole\obj\Debug\net9.0\ref\HelloConsole.dll

@@ -1,0 +1,14 @@
+C:\C#\hw3\hw3_1_2\ConsoleInput\bin\Debug\net9.0\ConsoleInput.exe
+C:\C#\hw3\hw3_1_2\ConsoleInput\bin\Debug\net9.0\ConsoleInput.deps.json
+C:\C#\hw3\hw3_1_2\ConsoleInput\bin\Debug\net9.0\ConsoleInput.runtimeconfig.json
+C:\C#\hw3\hw3_1_2\ConsoleInput\bin\Debug\net9.0\ConsoleInput.dll
+C:\C#\hw3\hw3_1_2\ConsoleInput\bin\Debug\net9.0\ConsoleInput.pdb
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.AssemblyInfoInputs.cache
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.AssemblyInfo.cs
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.dll
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\refint\ConsoleInput.dll
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.pdb
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ConsoleInput.genruntimeconfig.cache
+C:\C#\hw3\hw3_1_2\ConsoleInput\obj\Debug\net9.0\ref\ConsoleInput.dll

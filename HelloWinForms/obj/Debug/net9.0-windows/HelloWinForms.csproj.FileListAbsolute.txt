@@ -1,0 +1,14 @@
+C:\C#\hw3\HelloWinForms\bin\Debug\net9.0-windows\HelloWinForms.exe
+C:\C#\hw3\HelloWinForms\bin\Debug\net9.0-windows\HelloWinForms.deps.json
+C:\C#\hw3\HelloWinForms\bin\Debug\net9.0-windows\HelloWinForms.runtimeconfig.json
+C:\C#\hw3\HelloWinForms\bin\Debug\net9.0-windows\HelloWinForms.dll
+C:\C#\hw3\HelloWinForms\bin\Debug\net9.0-windows\HelloWinForms.pdb
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.AssemblyInfoInputs.cache
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.AssemblyInfo.cs
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.csproj.CoreCompileInputs.cache
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.dll
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\refint\HelloWinForms.dll
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.pdb
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\HelloWinForms.genruntimeconfig.cache
+C:\C#\hw3\HelloWinForms\obj\Debug\net9.0-windows\ref\HelloWinForms.dll
