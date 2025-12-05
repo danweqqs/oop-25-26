@@ -19,13 +19,12 @@ namespace labs3.Forms
             InitializeComponent();
 
             txtId.Text = Student.Id.ToString();
-            txtName.Text = Student.Name;
-            txtFaculty.Text = Student.Faculty;
-            txtDepartment.Text = Student.Department;
-            txtCourse.Text = Student.Course.ToString();
-            txtSemester.Text = Student.Semester.ToString();
+            txtName.Text = Student.Name ?? "";
+            txtFaculty.Text = Student.Faculty ?? "";
+            txtDepartment.Text = Student.Department ?? "";
 
-            gradesGrid.DataSource = Student.Grades;
+            numCourse.Value = Student.Course > 0 ? Student.Course : numCourse.Minimum;
+            numSemester.Value = Student.Semester > 0 ? Student.Semester : numSemester.Minimum;
         }
 
         private void btnOK_Click(object sender, EventArgs e)
@@ -34,8 +33,9 @@ namespace labs3.Forms
             Student.Name = txtName.Text;
             Student.Faculty = txtFaculty.Text;
             Student.Department = txtDepartment.Text;
-            Student.Course = int.Parse(txtCourse.Text);
-            Student.Semester = int.Parse(txtSemester.Text);
+
+            Student.Course = (int)numCourse.Value;
+            Student.Semester = (int)numSemester.Value;
 
             DialogResult = DialogResult.OK;
         }

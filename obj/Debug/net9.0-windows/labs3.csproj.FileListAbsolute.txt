@@ -16,3 +16,4 @@ C:\C#\labs3\obj\Debug\net9.0-windows\labs3.csproj.GenerateResource.cache
 C:\C#\labs3\obj\Debug\net9.0-windows\labs3.Forms.AboutForm.resources
 C:\C#\labs3\obj\Debug\net9.0-windows\labs3.Forms.MainForm.resources
 C:\C#\labs3\obj\Debug\net9.0-windows\labs3.Forms.StudentEditForm.resources
+C:\C#\labs3\obj\Debug\net9.0-windows\labs3.sourcelink.json
